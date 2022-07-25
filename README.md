@@ -1,6 +1,6 @@
 # API rest
 
-<h1 align="center"> Store </h1>
+<h1 align="center"> API </h1>
 
 ![Badge Finished](http://img.shields.io/static/v1?label=STATUS&message=FINISHED&color=GREEN&style=for-the-badge)
 
